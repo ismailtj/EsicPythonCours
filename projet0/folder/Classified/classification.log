@@ -1,0 +1,8 @@
+2024-12-13 13:02:37,938 - INFO - Démarrage du script de classification.
+2024-12-13 13:02:37,940 - INFO - Déplacé : ./folder\1.jpg -> ./folder\Classified\jpg\1.jpg
+2024-12-13 13:02:37,942 - INFO - Déplacé : ./folder\1.pdf -> ./folder\Classified\pdf\1.pdf
+2024-12-13 13:02:37,943 - INFO - Déplacé : ./folder\1.png -> ./folder\Classified\png\1.png
+2024-12-13 13:02:37,945 - INFO - Déplacé : ./folder\2.jpg -> ./folder\Classified\jpg\2.jpg
+2024-12-13 13:02:37,947 - INFO - Déplacé : ./folder\2.pdf -> ./folder\Classified\pdf\2.pdf
+2024-12-13 13:02:37,948 - INFO - Déplacé : ./folder\2.png -> ./folder\Classified\png\2.png
+2024-12-13 13:02:37,949 - INFO - Classification terminée.
